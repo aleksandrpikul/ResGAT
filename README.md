@@ -44,6 +44,21 @@ You can choose to download only the weights of the pretrained backbone used for 
 </table>
 
 ## Getting started
+- [ResGATv1 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Video%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/12WnvmerHBNbJ49HdoH1lli_O8SwaFPjv?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
+- [ResGATv1 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/19oVKlzEr58VZfRnSq-nW8kFYuxkh3GM8?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
+- [ResGATv2 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Video%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/12WnvmerHBNbJ49HdoH1lli_O8SwaFPjv?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
+- [ResGATv2 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/19oVKlzEr58VZfRnSq-nW8kFYuxkh3GM8?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
 
 ## Datasets
 
