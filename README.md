@@ -10,31 +10,26 @@ Official PyTorch Implementation of "Enhancing Explainability in Deepfake Detecti
 <table>
   <tr>
     <th>Architecture</th>
-    <th>Params</th>
     <th colspan="6">Download</th>
   </tr>
   
   <tr>
     <td>ResGATv1 (DFDC)</td>
-    <td>21M</td>
     <td><a href="https://drive.google.com/file/d/1skFTcIPprxiYi00rPuISNfxy85Z_6PwR/view?usp=sharing">model_weights.pth</a></td>
   </tr>
   
   <tr>
     <td>ResGATv1 (FF++)</td>
-    <td>21M</td>
     <td><a href="https://drive.google.com/file/d/1bcO0ZNShxRUrM99GazRg5BjUmmiW5hTt/view?usp=sharing">model_weights.pth</a></td>
   </tr>
 
   <tr>
     <td>ResGATv2 (DFDC)</td>
-    <td>21M</td>
     <td><a href="https://drive.google.com/file/d/1nqceJYEYbTYyKNm57zRQVWi5T7OAj3FO/view?usp=sharing">model_weights.pth</a></td>
   </tr>
 
   <tr>
     <td>ResGATv2 (FF++)</td>
-    <td>21M</td>
     <td><a href="https://drive.google.com/file/d/1qks5pUv-nqt9G5ksD_d-k0wytuWCFVNn/view?usp=sharing">model_weights.pth</a></td>
   </tr>
 
