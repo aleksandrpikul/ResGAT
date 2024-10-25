@@ -44,7 +44,7 @@ You can choose to download only the weights of the pretrained backbone used for 
 </table>
 
 ## Getting started
-- [ResGATv1 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Video%20prediction.ipynb) <a target="_blank" href="[https://colab.research.google.com/drive/12WnvmerHBNbJ49HdoH1lli_O8SwaFPjv?usp=sharing](https://colab.research.google.com/drive/1V9-SdjYvzyreN5-VL_l_Q6XWRk189lp1?usp=sharing)">
+- [ResGATv1 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1V9-SdjYvzyreN5-VL_l_Q6XWRk189lp1?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
