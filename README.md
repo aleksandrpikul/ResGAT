@@ -7,8 +7,6 @@ Official PyTorch Implementation of "Enhancing Explainability in Deepfake Detecti
 ![Диаграмма без названия drawio(10)(1)(1)](https://github.com/user-attachments/assets/443a652f-280c-4991-9345-c5f0e1c6897c)
 
 ## Pretrained models
-You can choose to download only the weights of the pretrained backbone used for downstream tasks, or the full checkpoint which contains backbone and projection head weights for both student and teacher networks. We also provide the backbone in `onnx` format, as well as detailed arguments and training/evaluation logs. Note that `DeiT-S` and `ViT-S` names refer exactly to the same architecture.
-
 <table>
   <tr>
     <th>Architecture</th>
@@ -19,25 +17,25 @@ You can choose to download only the weights of the pretrained backbone used for 
   <tr>
     <td>ResGATv1 (DFDC)</td>
     <td>21M</td>
-    <td><a href="https://dl.fbaipublicfiles.com/dino/dino_deitsmall16_pretrain/dino_deitsmall16_pretrain.pth">model_weights.pth</a></td>
+    <td><a href="https://drive.google.com/file/d/1skFTcIPprxiYi00rPuISNfxy85Z_6PwR/view?usp=sharing">model_weights.pth</a></td>
   </tr>
   
   <tr>
     <td>ResGATv1 (FF++)</td>
     <td>21M</td>
-    <td><a href="https://dl.fbaipublicfiles.com/dino/dino_deitsmall16_pretrain/dino_deitsmall16_pretrain.pth">model_weights.pth</a></td>
+    <td><a href="https://drive.google.com/file/d/1bcO0ZNShxRUrM99GazRg5BjUmmiW5hTt/view?usp=sharing">model_weights.pth</a></td>
   </tr>
 
   <tr>
     <td>ResGATv2 (DFDC)</td>
     <td>21M</td>
-    <td><a href="https://dl.fbaipublicfiles.com/dino/dino_deitsmall16_pretrain/dino_deitsmall16_pretrain.pth">model_weights.pth</a></td>
+    <td><a href="https://drive.google.com/file/d/1nqceJYEYbTYyKNm57zRQVWi5T7OAj3FO/view?usp=sharing">model_weights.pth</a></td>
   </tr>
 
   <tr>
     <td>ResGATv2 (FF++)</td>
     <td>21M</td>
-    <td><a href="https://dl.fbaipublicfiles.com/dino/dino_deitsmall16_pretrain/dino_deitsmall16_pretrain.pth">model_weights.pth</a></td>
+    <td><a href="https://drive.google.com/file/d/1qks5pUv-nqt9G5ksD_d-k0wytuWCFVNn/view?usp=sharing">model_weights.pth</a></td>
   </tr>
 
   
