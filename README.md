@@ -48,7 +48,7 @@ You can choose to download only the weights of the pretrained backbone used for 
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- [ResGATv1 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/19oVKlzEr58VZfRnSq-nW8kFYuxkh3GM8?usp=sharing">
+- [ResGATv1 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1ytDYIsETagSx7AMXba3vbwCwxl9Gp9gf?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
