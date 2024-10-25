@@ -52,11 +52,11 @@ You can choose to download only the weights of the pretrained backbone used for 
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- [ResGATv2 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Video%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/12WnvmerHBNbJ49HdoH1lli_O8SwaFPjv?usp=sharing">
+- [ResGATv2 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Video%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1RtHvcLfww8ozFotHuKAL4Ng8duzxGDNQ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- [ResGATv2 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/19oVKlzEr58VZfRnSq-nW8kFYuxkh3GM8?usp=sharing">
+- [ResGATv2 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1ewhZbxquN9AYlyi2qScA_XqOQ2CZgfgr?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
@@ -64,7 +64,3 @@ You can choose to download only the weights of the pretrained backbone used for 
 
 - [The DeepFake Detection Challenge (DFDC) Dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data) | [arXiv paper](https://arxiv.org/abs/2006.07397)
 - [FaceForensics++: Learning to Detect Manipulated Facial Images](https://github.com/ondyari/FaceForensics/blob/master/dataset/README.md) | [arXiv paper](https://arxiv.org/abs/1901.08971)
-
-## References
-- ResNet
-- GAT
