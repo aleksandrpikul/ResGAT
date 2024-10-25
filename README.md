@@ -44,19 +44,19 @@ You can choose to download only the weights of the pretrained backbone used for 
 </table>
 
 ## Getting started
-- [ResGATv1 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1V9-SdjYvzyreN5-VL_l_Q6XWRk189lp1?usp=sharing">
+- [ResGATv1 (DFDC)](https://github.com/aleksandrpikul/ResGAT/blob/main/gatv1_dfdc.py) <a target="_blank" href="https://colab.research.google.com/drive/1V9-SdjYvzyreN5-VL_l_Q6XWRk189lp1?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- [ResGATv1 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1ytDYIsETagSx7AMXba3vbwCwxl9Gp9gf?usp=sharing">
+- [ResGATv1 (FF++)](https://github.com/aleksandrpikul/ResGAT/blob/main/GATv1_FF%2B%2B(1).ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1ytDYIsETagSx7AMXba3vbwCwxl9Gp9gf?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- [ResGATv2 (DFDC)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Video%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1RtHvcLfww8ozFotHuKAL4Ng8duzxGDNQ?usp=sharing">
+- [ResGATv2 (DFDC)](https://github.com/aleksandrpikul/ResGAT/blob/main/gatv2_dfdc.py) <a target="_blank" href="https://colab.research.google.com/drive/1RtHvcLfww8ozFotHuKAL4Ng8duzxGDNQ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- [ResGATv2 (FF++)](https://github.com/polimi-ispl/icpr2020dfdc/blob/master/notebook/Image%20prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1ewhZbxquN9AYlyi2qScA_XqOQ2CZgfgr?usp=sharing">
+- [ResGATv2 (FF++)](https://github.com/aleksandrpikul/ResGAT/blob/main/GATv2_FF%2B%2B(3).ipynb) <a target="_blank" href="https://colab.research.google.com/drive/1ewhZbxquN9AYlyi2qScA_XqOQ2CZgfgr?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
